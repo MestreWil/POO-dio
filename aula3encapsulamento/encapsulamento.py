@@ -6,7 +6,7 @@ class Conta:
   def depositar(self, valor):
     self._saldo += valor
   
-  def sacar(salf, valor):
+  def sacar(self, valor):
     self._saldo -= valor
   
 conta = Conta("0001", 100)
