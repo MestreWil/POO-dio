@@ -6,7 +6,7 @@ def pai():
   def filho2():
     print("Escrevendo da filho2() funcao")
     
-  filho1()
+  filho1() # executando dentro das funcoes as funcoes dentro do escopo da funcao
   filho2()
   
 pai()
